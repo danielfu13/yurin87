@@ -1,0 +1,14 @@
+.team-header {
+    background-color: rgba(175, 75, 206, 0.644);
+}
+
+
+.card {
+    text-align: center;
+}
+
+.card-header {
+    background-color: rgb(72, 24, 184);
+    color: white;
+}
+
