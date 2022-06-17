@@ -25,6 +25,8 @@ Run the command: node index.js
 
 Fill in the prompts to create Team Profile Generator!
 
+Open index.html file in page folder to view completed Team Profile Generator.
+
   ## Contributors
 
   To contribute to this application, create a pull request.
